@@ -1,0 +1,110 @@
+{
+  "user": [
+    {
+      "name": "John",
+      "email": "john@example.com",
+      "password": "john123",
+      "id": "0232"
+    },
+    {
+      "name": "Doe",
+      "email": "hehe@gmail.com",
+      "password": "doe123",
+      "id": "9bf4"
+    },
+    {
+      "id": "3cd6",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "83d6",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "91ea",
+      "name": "boruzed",
+      "email": "zycojuqa@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "d189",
+      "name": "lamen",
+      "email": "fetonif@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "f3ba",
+      "name": "nybazynesa",
+      "email": "pojy@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "2fe2",
+      "name": "qikawo",
+      "email": "mytipene@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "4742",
+      "name": "levytik",
+      "email": "wete@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "d37c",
+      "email": "hehe@gmail.com",
+      "password": "Doe123"
+    },
+    {
+      "id": "09ed",
+      "email": "hehe@gmail.com",
+      "password": "Doe123"
+    },
+    {
+      "id": "238a",
+      "email": "hehe@gmail.com",
+      "password": "Doe123"
+    },
+    {
+      "id": "4876",
+      "email": "hehe@gmail.com",
+      "password": "Doe123"
+    },
+    {
+      "id": "b154",
+      "email": "hehe@gmail.com",
+      "password": "Doe123"
+    },
+    {
+      "id": "d81b",
+      "email": "hehe@gmail.com",
+      "password": "Doe123"
+    },
+    {
+      "id": "583f",
+      "email": "hehe@gmail.com",
+      "password": "Doe123"
+    }
+  ],
+  "hotels": [
+    {
+      "id": "1"
+    },
+    {
+      "name": "Damaris Fs",
+      "address": "wozza wozza",
+      "contact": "6735",
+      "id": "3"
+    },
+    {
+      "id": "3079",
+      "name": "Madeline Stevens",
+      "address": "Eum sunt quo corpor",
+      "contact": "Aut ut aut dolor ani"
+    }
+  ]
+}
